@@ -1,0 +1,8 @@
+{
+  "name": "git-aprendendo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:guimaurer/git-aprendendo.git",
+  "author": "guimaurer <guilhermemaurer@hotmail.com>",
+  "license": "MIT"
+}
