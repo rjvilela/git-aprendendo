@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:guimaurer/git-aprendendo.git",
   "author": "guimaurer <guilhermemaurer@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
